@@ -1,5 +1,5 @@
 # BayAreaEvents
-Test
+TestAgain
 Hello and welcome to my application! This application will help the user find out about events in the SF Bay Area!
 
 ## Installation
